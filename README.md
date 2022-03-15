@@ -1,4 +1,4 @@
-# Operadores em C++
+# Operadores em C/C++
 
 Nesse arquivo coloquei alguns operadores e dei exemplos deles.
 Vou deixar aqui em baixo uma cola rápida sobre a função de alguns operadores. Sim, *alguns*.
