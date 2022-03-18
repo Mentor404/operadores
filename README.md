@@ -20,7 +20,7 @@ Não demonstrei todos os operadores neste arquivo, os mais importantes estão aq
 ### Atribui valores a uma variável
 
  - `=` Igual a;
- -  `+=` ou `(a = a+b)` Adição entre variáveis;
+ -  `+=` ou `(a = a+b)` Adição entre variáveis; (concatenar)
  - `-=` ou `(a = a-b)` Subtração entre variáveis;
  - `*=` ou `(a = a*b)` Multiplicação entre variáveis;
  - `/=` ou `(a = a/b)` Divisão entre variáveis;
